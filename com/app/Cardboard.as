@@ -1,0 +1,1 @@
+﻿package com.app  {		import flash.display.MovieClip;			public class Cardboard extends MovieClip {						public function Cardboard() {			// constructor code			alpha=0.5		}	}	}
