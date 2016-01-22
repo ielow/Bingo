@@ -1,1 +1,1 @@
-﻿package com.app {		import flash.display.MovieClip;			public class Cell extends MovieClip {						public function Cell() {			// constructor code		}	}	}
+﻿package com.app  {		import flash.display.MovieClip;			public class Cell extends MovieClip {						public function Cell() {			// constructor code		}	}	}
