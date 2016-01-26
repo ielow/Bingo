@@ -1,0 +1,1 @@
+﻿package com.app {		import flash.media.Sound;			public class Winner extends Sound {						public function Winner() {			// constructor code		}	}	}
