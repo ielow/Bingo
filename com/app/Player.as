@@ -1,1 +1,1 @@
-﻿package com.app {		import flash.display.MovieClip;			public class Player extends MovieClip {						public function Player() {			// constructor code		}	}	}
+﻿package com.app {		import flash.display.MovieClip;			public class Player extends MovieClip {				public function Player($uid:String,$folio:String,$creditos:uint) {			// constructor code			credit_txt.text=String($creditos);			folio_txt.text=String($folio);		}	}	}
